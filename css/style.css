@@ -82,7 +82,7 @@ padding-left: 10px;
     color: #6F6F6F;
 }
 .bike__text{
-    min-width: 420px;
+    max-width: 420px;
     margin-bottom: 20px;
     font-weight: 400;
     font-size: 14px;
@@ -180,7 +180,7 @@ padding-left: 10px;
     text-transform: uppercase;  
 }
 .info__item-text{
-    min-width: 450px;
+    max-width: 450px;
 }
 .haracteristics{
     padding-top: 100px;
@@ -422,7 +422,7 @@ margin-bottom: 50px;
     }
 }
 
-@media (max-width: 990px) {
+@media (max-width: 991px) {
     .menu{
         margin-right: 0;
     }
